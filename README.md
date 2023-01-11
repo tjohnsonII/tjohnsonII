@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tjohnsonII
-- 👀 I’m interested in web developement.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in web developement, computer networking, and coding.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on web database developement, front end and back end developement.
 - 📫 How to reach me tjohnson082083@gmail.com
 
